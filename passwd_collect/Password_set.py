@@ -62,10 +62,9 @@ def print_help():
       -h, --help            show this help message and exit
       -f FILE, --file FILE  Path to the input file(s)
       -o OUTPUT, --output OUTPUT
-                            Path to the output file
-        
+                            Path to the output file        
     """
-    print(help_text)
+
 
 
 def main():
